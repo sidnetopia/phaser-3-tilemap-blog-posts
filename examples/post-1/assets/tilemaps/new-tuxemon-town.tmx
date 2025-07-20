@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="40" height="40" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="277">
  <editorsettings>
-  <export target="new-tuxemon-town.tmx" format="tmx"/>
+  <export target="new-tuxemon-town2.json" format="json"/>
  </editorsettings>
  <properties>
   <property name="edges" value="clamped"/>
